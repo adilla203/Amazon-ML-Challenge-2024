@@ -49,5 +49,3 @@ such as `paraphrase-mpnet-base-v2` , `paraphrase-MiniLM-L6-v2`
 - We also used mode technique i.e. using most frequently predicted label obtained
 from different experiments
 - `Cross Validation` is also used to train `KNNClassifier`
-
-LET_POINTS
